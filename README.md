@@ -9,6 +9,8 @@
 
 
 By Muhammad Balal Ansar (Cyber Security Expert)
+
+
 SOC Monitoring Dashboard is a recruiter-friendly cybersecurity portfolio project built with Python, Flask, SQLite, ELK-ready log adapters. It provides a dashboard, REST API, persistence, tests, Docker support, and documentation that can be pushed as an individual GitHub repository.
 
 ## Features
