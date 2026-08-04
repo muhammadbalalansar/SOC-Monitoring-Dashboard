@@ -110,5 +110,3 @@ Add screenshots after running the dashboard:
 - feat: add scored analysis workflow
 - test: cover service scoring output
 - docs: add deployment and security notes
-
-
